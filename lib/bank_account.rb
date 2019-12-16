@@ -22,4 +22,5 @@ class BankAccount
     else
       return false
     end
+  end
 end
